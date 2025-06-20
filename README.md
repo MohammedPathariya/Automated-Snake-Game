@@ -1,6 +1,13 @@
-# Automated-Snake-Game
-Automated Snake Game using Deep Reinforcement Learning
-This is an automated snake game project that makes use of a learning agent. 
-Deep Reinforcement Learning is used to teach the model how to play the game without loosing. 
-The different modules used in the build are : torch, pygame, numpy, matplotlib, os, collections, IPython and random.
-Python is the primary language used in the project.
+### 🐍 Automated Snake Game — Powered by Deep Reinforcement Learning
+
+This project showcases an automated Snake game where a learning agent is trained using **Deep Reinforcement Learning (DRL)** to play the game effectively without losing. The agent learns through trial and error, improving its strategy over time.
+
+The game is built using **Python**, with key libraries including:
+
+* `torch` for neural network modeling
+* `pygame` for game simulation
+* `numpy`, `random`, and `collections` for logic and environment setup
+* `matplotlib` and `IPython` for visualizations and interactive output
+* `os` for system operations
+
+The result is a fully self-playing Snake game where the AI adapts to maximize survival and score
