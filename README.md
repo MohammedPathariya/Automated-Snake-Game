@@ -3,6 +3,8 @@
 This project implements an **AI agent that learns to play the classic Snake game** using **Deep Q-Learning (DQN)**.  
 The agent is trained using **reinforcement learning**, where it learns optimal moves to maximize the score by eating food and avoiding collisions.
 
+---
+
 ## 🚀 Features
 
 - ✅ Classic Snake game implemented with **Pygame**  
@@ -122,3 +124,5 @@ MIT License © 2025
 
 * Inspired by reinforcement learning tutorials and Snake game implementations
 * Built with PyTorch and Pygame
+
+---
